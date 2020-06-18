@@ -16,7 +16,7 @@ Recreate the virtual environment using dlwp.txt using this command "conda env cr
 
 ## Quizes
 + Link to interactive quizes https://bit.ly/kw_poll 
-<img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
+<img src="https://kwseow.github.com/images/quiz_qr.png" alt="quiz qr code" width="40%"/>
 
 ## Additional Readings
 ### [Deep learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
