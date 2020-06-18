@@ -1,7 +1,7 @@
 # Deep Learning with Python (22nd to 23rd Jun 2020)
 
 ## Attendance
-[<img src="eAttendance.jpg" alt="quiz qr code" width="100%"/>](https://forms.office.com/Pages/ResponsePage.aspx?id=0LCI9vB5pECGRDX83unQ82hg4AwDH9xMn406LA8StXhUNDRaVEhDSjlFRUpEOVVXTlZaVEY3UlhCUC4u)
+[<img src="eAttendance.jpg" alt="Attendance" width="100%"/>](https://forms.office.com/Pages/ResponsePage.aspx?id=0LCI9vB5pECGRDX83unQ82hg4AwDH9xMn406LA8StXhUNDRaVEhDSjlFRUpEOVVXTlZaVEY3UlhCUC4u)
 
 ## Resources
 
