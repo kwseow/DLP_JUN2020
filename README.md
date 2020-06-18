@@ -1,6 +1,7 @@
-# Deep Learning with Python (Jun 2020)
+# Deep Learning with Python (22nd to 23rd Jun 2020)
 
-Recreate the virtual environment using dlwp.txt using this command "conda env create --file dlwp.txt"
+## Attendance
+[<img src="eAttendance.jpg" alt="quiz qr code" width="100%"/>](https://forms.office.com/Pages/ResponsePage.aspx?id=0LCI9vB5pECGRDX83unQ82hg4AwDH9xMn406LA8StXhUNDRaVEhDSjlFRUpEOVVXTlZaVEY3UlhCUC4u)
 
 ## Resources
 
