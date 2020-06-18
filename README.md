@@ -15,7 +15,7 @@ Recreate the virtual environment using dlwp.txt using this command "conda env cr
 ### [PyCharm (Python IDE)](https://www.jetbrains.com/pycharm/)
 
 ## Quizes
-+ Link to interactive quizes http://bit.ly/2Y8MTi2  
++ Link to interactive quizes https://bit.ly/kw_poll 
 <img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
 
 ## Additional Readings
