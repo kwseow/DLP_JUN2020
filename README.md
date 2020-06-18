@@ -8,11 +8,11 @@ Recreate the virtual environment using dlwp.txt using this command "conda env cr
 
 ### [Datasets repository](https://kwseow.github.io/)
 
-### [Python (download version specific to your OS)](https://www.python.org/downloads/)
+### [Python (download version specific to your OS)](https://www.python.org/downloads/) (not needed since we are using google colab)
 
-### [Anaconda (download version specific to your OS)](https://www.anaconda.com/)
+### [Anaconda (download version specific to your OS)](https://www.anaconda.com/) (not needed since we are using google colab)
 
-### [PyCharm (Python IDE)](https://www.jetbrains.com/pycharm/)
+### [PyCharm (Python IDE)](https://www.jetbrains.com/pycharm/) (not needed since we are using google colab)
 
 ## Quizes
 + Link to interactive quizes https://bit.ly/kw_poll 
