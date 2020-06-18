@@ -5,6 +5,8 @@
 
 ## Resources
 
+### [Getting started with Google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
+
 ### [Pokemon Dataset](https://bit.ly/pokemon_jun2020)
 
 ### [Datasets repository](https://kwseow.github.io/)
@@ -32,6 +34,8 @@
 
 ## Cheet sheets
 ### [The Conda cheet sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+
+### [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ### [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
 
