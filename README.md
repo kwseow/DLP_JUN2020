@@ -7,7 +7,7 @@
 
 ### [Getting started with Google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 
-### [Pokemon Dataset](https://bit.ly/pokemon_jun2020)
+### [Flowers_5 Mini Dataset](https://drive.google.com/file/d/1_jPB_TWu4Ddiv0IwQEhnRpl18xwFzuNo/view?usp=sharing)
 
 ### [Datasets repository](https://kwseow.github.io/)
 
